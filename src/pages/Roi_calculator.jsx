@@ -62,8 +62,6 @@ export default function Roi_calculator() {
                   >
                     $100
                   </button>
-                  <h1>{cake}</h1>
-                  <h4>{(9 / 100) * cake}</h4>
                 </div>
                 <div>
                   <p>~ CAKE 0.000</p>
